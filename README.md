@@ -23,7 +23,7 @@ Datafiniti provides instant access to web data. We compile data from thousands o
 
 Price Elasticity model
 
- 	> We can infer from data which all products are price elastic and which arent. If there are inelastic products i.e products whose sales are   not affected by change in price, we can get that extra revenue (left on table currently) by increasing price.
+ 	 We can infer from data which all products are price elastic and which arent. If there are inelastic products i.e products whose sales      are not affected by change in price, we can get that extra revenue (left on table currently) by increasing price.
 
  	
   > Data Understanding and EDA
