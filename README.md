@@ -24,9 +24,10 @@ Price Elasticity model
   Data Understanding and EDA
   <p>We can infer from data which all products are price elastic and which aren't. If there are inelastic products i.e products whose sales are not affected by change in price, we can get that extra revenue (left on table currently) by increasing price
  <p>How does the prices.condition affect the pricing strategy of a product?
-Is there a correlation between the prices.dateSeen of a product and its dynamic pricing across merchants?
-What is the competitive pricing strategy for the same product from different merchants?
-What role does a product’s category play in its listing price?
+ <p>Is there a correlation between the prices.dateSeen of a product and its dynamic pricing across merchants?
+ <p>What is the competitive pricing strategy for the same product from different merchants?
+ <p>What role does a product’s category play in its listing price?
+   
  	> Data Preparation
  	> Machine Learning
  	> Evaluation
