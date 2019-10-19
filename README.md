@@ -14,7 +14,7 @@ Note:- This is a sample of a large dataset. The full dataset is available throug
 
 Description of all the columns present in the dataset can be found in the link - https://developer.datafiniti.co/docs/product-data-schema
 
-### About Datafiniti
+#### About Datafiniti
 Datafiniti provides instant access to web data. We compile data from thousands of websites to create standardized databases of business, product, and property information.
 
 ## CRISP-DM Process 
