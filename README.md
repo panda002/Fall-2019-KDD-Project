@@ -2,7 +2,7 @@
 
 ## Project and Team Introduction
 Team Name: Analytics Panda
-Sidharth Panda - Computer Science Graduate student at the University of North Carolina at Charlotte
+<p>Sidharth Panda - Computer Science Graduate student at the University of North Carolina at Charlotte
 
 ## Data and Source description
 Data - Electronic Products and Pricing Data summary
