@@ -1,6 +1,7 @@
 # Fall-2019-KDD-Project
 
 ## Project and Team Introduction
+Team Name: Analytics Panda
 Sidharth Panda - Computer Science Graduate student at the University of North Carolina at Charlotte
 
 ## Data and Source description
@@ -19,16 +20,14 @@ Datafiniti provides instant access to web data. We compile data from thousands o
 ## Application of the CRISP-DM Process 
 
 ## Domain Knowledge (document sources)
+
 Price Elasticity model
 
-We can infer from data which all products are price elastic and which arent. If there are inelastic products i.e products whose sales are not affected by change in price, we can get that extra revenue (left on table currently) by increasing price.
+ 	> We can infer from data which all products are price elastic and which arent. If there are inelastic products i.e products whose sales are   not affected by change in price, we can get that extra revenue (left on table currently) by increasing price.
 
-## Data Understanding and EDA
-
-## Data Preparation
-
-## Machine Learning
-
-## Evaluation
-
-## Conclusion
+ 	
+  > Data Understanding and EDA
+ 	> Data Preparation
+ 	> Machine Learning
+ 	> Evaluation
+ 	> Conclusion
