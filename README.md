@@ -5,8 +5,6 @@ Team Name: Analytics Panda
 <p>Sidharth Panda - Computer Science Graduate student at the University of North Carolina at Charlotte
 
 ## Data and Source description
-Data - Electronic Products and Pricing Data summary
-About This Data
 
 This is a list of over 7,000 electronic products with pricing information across 10 unique fields provided by Datafiniti's Product Database. The dataset also includes the brand, category, merchant, name, source, and more.
 
@@ -14,12 +12,45 @@ Note:- This is a sample of a large dataset. The full dataset is available throug
 
 Description of all the columns present in the dataset can be found in the link - https://developer.datafiniti.co/docs/product-data-schema
 
+<p> **********************************************************************************************************************************
+
+  
 #### About Datafiniti
 Datafiniti provides instant access to web data. We compile data from thousands of websites to create standardized databases of business, product, and property information.
 
+<p> **********************************************************************************************************************************
+
+  
 ## CRISP-DM Process 
 
 Price Elasticity model
+
+[Price elasticity of demand (PED or Ed)](https://en.wikipedia.org/wiki/Price_elasticity_of_demand) is a measure used in economics to show the responsiveness, or elasticity, of the quantity demanded of a good or service to a change in its price when nothing but the price changes. More precisely, it gives the percentage change in quantity demanded in response to a one percent change in price.
+
+It gives answers to questions such as:
+> “If the price of a product is lowered, how much more will be the demand?”<p>
+> “If the price of a product is increased, how will that affect sales of the other products?”<p>
+> “If the price is decreased, then how much should be the sale of the product to keep the revenue constant?”
+ 
+The price change brings into effect two possibilities -
+The price effect
+For inelastic goods, an increase in unit price will tend to increase revenue, while a decrease in price will tend to decrease revenue. (The effect is reversed for elastic goods.)
+The quantity effect
+An increase in unit price will tend to lead to fewer units sold, while a decrease in unit price will tend to lead to more units sold.
+<p> **********************************************************************************************************************************
+ 
+## [Elastic and Inelastic Demand](https://keydifferences.com/difference-between-elastic-and-inelastic-demand.html)
+###
+BASIS FOR COMPARISON|ELASTIC DEMAND |INELASTIC DEMAND
+:---:|:-:|:---:
+Meaning|When a little change in the price of a product results in a substantial change in the quantity demanded, it is known as elastic demand.|Inelastic demand refers to a change in the price of a good result in no or slight change in the quantity demanded.
+Elasticity Quotient|More than equal to 1|Less than 1
+Curve|Shallow|Steep
+Price and Total revenue|Move in the opposite direction|Move in the same direction
+Goods|Comfort and luxury|Necessity
+
+<p> **********************************************************************************************************************************
+
 
   #### Data Understanding and EDA
   <p>We can infer from data which all products are price elastic and which aren't. If there are inelastic products i.e products whose        sales are not affected by change in price, we can get that extra revenue (left on table currently) by increasing price;
