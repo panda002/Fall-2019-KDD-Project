@@ -20,9 +20,6 @@ Datafiniti provides instant access to web data. We compile data from thousands o
 
 <p> *********************************************************************************************************************************
 
-  
-## CRISP-DM Process 
-
 Price Elasticity model
 
 [Price elasticity of demand (PED or Ed)](https://en.wikipedia.org/wiki/Price_elasticity_of_demand) is a measure used in economics to show the responsiveness, or elasticity, of the quantity demanded of a good or service to a change in its price when nothing but the price changes. More precisely, it gives the percentage change in quantity demanded in response to a one percent change in price.
@@ -54,6 +51,7 @@ Goods|Comfort and luxury|Necessity
 
 <p> *********************************************************************************************************************************
 
+## CRISP-DM Process
 
   #### Data Understanding and EDA
   <p>We can infer from data which all products are price elastic and which aren't. If there are inelastic products i.e products whose        sales are not affected by change in price, we can get that extra revenue (left on table currently) by increasing price;
