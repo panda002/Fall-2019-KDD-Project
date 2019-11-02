@@ -34,9 +34,10 @@ It gives answers to questions such as:
  
 The price change brings into effect two possibilities -
 
-> The price effect
-> For inelastic goods, an increase in unit price will tend to increase revenue, while a decrease in price will tend to decrease revenue. (The effect is reversed for elastic goods.)
-> The quantity effect
+##### The price effect<p>
+> For inelastic goods, an increase in unit price will tend to increase revenue, while a decrease in price will tend to decrease revenue. (The effect is reversed for elastic goods.)<p>
+  
+##### The quantity effect<p>
 > An increase in unit price will tend to lead to fewer units sold, while a decrease in unit price will tend to lead to more units sold.
 
 <p> **********************************************************************************************************************************
