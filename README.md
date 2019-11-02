@@ -12,13 +12,13 @@ Note:- This is a sample of a large dataset. The full dataset is available throug
 
 Description of all the columns present in the dataset can be found in the link - https://developer.datafiniti.co/docs/product-data-schema
 
-<p> **********************************************************************************************************************************
+<p> *********************************************************************************************************************************
 
   
 #### About Datafiniti
 Datafiniti provides instant access to web data. We compile data from thousands of websites to create standardized databases of business, product, and property information.
 
-<p> **********************************************************************************************************************************
+<p> *********************************************************************************************************************************
 
   
 ## CRISP-DM Process 
@@ -40,7 +40,7 @@ The price change brings into effect two possibilities -
 ##### The quantity effect<p>
 > An increase in unit price will tend to lead to fewer units sold, while a decrease in unit price will tend to lead to more units sold.
 
-<p> **********************************************************************************************************************************
+<p> *********************************************************************************************************************************
  
 ## [Elastic and Inelastic Demand](https://keydifferences.com/difference-between-elastic-and-inelastic-demand.html)
 ###
@@ -52,7 +52,7 @@ Curve|Shallow|Steep
 Price and Total revenue|Move in the opposite direction|Move in the same direction
 Goods|Comfort and luxury|Necessity
 
-<p> **********************************************************************************************************************************
+<p> *********************************************************************************************************************************
 
 
   #### Data Understanding and EDA
