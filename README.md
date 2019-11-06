@@ -69,3 +69,4 @@ Goods|Comfort and luxury|Necessity
  	> Machine Learning
  	> Evaluation
  	> Conclusion
+      We will conclude from the machine learning models, the impact, pricing has on the demand of the products.
