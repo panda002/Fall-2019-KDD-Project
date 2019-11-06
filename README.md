@@ -63,7 +63,9 @@ Goods|Comfort and luxury|Necessity
  <p>What role does a product’s category play in its listing price?
  <p>Price Elasticity of all the products
    
- 	> Data Preparation
+  #### Data Preparation
+  Data preparation is in progress and it is vital to select the columns that will have a bigger impact on the goal we have.
+  
  	> Machine Learning
  	> Evaluation
  	> Conclusion
