@@ -66,9 +66,9 @@ Goods|Comfort and luxury|Necessity
   #### Data Preparation
   Data preparation is in progress and it is vital to select the columns that will have a bigger impact on the goal we have.
   
- 	> Machine Learning
- 	> Evaluation
- 	> Conclusion
+ 	#### Machine Learning
+ 	#### Evaluation
+ 	#### Conclusion
       We will conclude from the machine learning models, the impact, pricing has on the demand of the products.
-  > DecisionTree
+  #### DecisionTree
       By building a decision tree, we can evaluate decide which type of product to buy from which website based on past data.
