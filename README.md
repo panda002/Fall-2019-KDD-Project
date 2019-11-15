@@ -57,13 +57,13 @@ Goods|Comfort and luxury|Necessity
   <p>We can infer from data which all products are price elastic and which aren't. If there are inelastic products i.e products whose        sales are not affected by change in price, we can get that extra revenue (left on table currently) by increasing price;
   
 #### Normal EDA will include  the follwing points and may change with the project progress :-
- <p>How does the prices condition affect the pricing strategy of a product?
- <p>Is there a correlation between the prices.dateSeen of a product and its dynamic pricing across merchants?
- <p>What is the competitive pricing strategy for the same product from different merchants?
- <p>What role does a product’s category play in its listing price?
- <p>Price Elasticity of all the products
+ >  <p>How does the prices condition affect the pricing strategy of a product?
+ >  <p>Is there a correlation between the prices.dateSeen of a product and its dynamic pricing across merchants?
+ >  <p>What is the competitive pricing strategy for the same product from different merchants?
+ >  <p>What role does a product’s category play in its listing price?
+ >  <p>Price Elasticity of all the products
    
- #### Data Preparation
+#### Data Preparation
   Data preparation is in progress and it is vital to select the columns that will have a bigger impact on the goal we have.
 
 #### Machine Learning
