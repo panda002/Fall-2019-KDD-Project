@@ -53,22 +53,22 @@ Goods|Comfort and luxury|Necessity
 
 ## CRISP-DM Process
 > File to be followed - PriceElasticity_price.ipynb
-  #### Data Understanding and EDA
+#### Data Understanding and EDA
   <p>We can infer from data which all products are price elastic and which aren't. If there are inelastic products i.e products whose        sales are not affected by change in price, we can get that extra revenue (left on table currently) by increasing price;
   
-  #### Normal EDA will include  the follwing points and may change with the project progress :-
+#### Normal EDA will include  the follwing points and may change with the project progress :-
  <p>How does the prices condition affect the pricing strategy of a product?
  <p>Is there a correlation between the prices.dateSeen of a product and its dynamic pricing across merchants?
  <p>What is the competitive pricing strategy for the same product from different merchants?
  <p>What role does a product’s category play in its listing price?
  <p>Price Elasticity of all the products
    
-  #### Data Preparation
+ #### Data Preparation
   Data preparation is in progress and it is vital to select the columns that will have a bigger impact on the goal we have.
-  
- 	#### Machine Learning
- 	#### Evaluation
- 	#### Conclusion
+
+#### Machine Learning
+#### Evaluation
+#### Conclusion
       We will conclude from the machine learning models, the impact, pricing has on the demand of the products.
-  #### DecisionTree
+#### DecisionTree
       By building a decision tree, we can evaluate decide which type of product to buy from which website based on past data.
