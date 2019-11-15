@@ -52,7 +52,7 @@ Goods|Comfort and luxury|Necessity
 <p> *********************************************************************************************************************************
 
 ## CRISP-DM Process
-
+> File to be followed - PriceElasticity_price.ipynb
   #### Data Understanding and EDA
   <p>We can infer from data which all products are price elastic and which aren't. If there are inelastic products i.e products whose        sales are not affected by change in price, we can get that extra revenue (left on table currently) by increasing price;
   
@@ -70,3 +70,5 @@ Goods|Comfort and luxury|Necessity
  	> Evaluation
  	> Conclusion
       We will conclude from the machine learning models, the impact, pricing has on the demand of the products.
+  > DecisionTree
+      By building a decision tree, we can evaluate decide which type of product to buy from which website based on past data.
