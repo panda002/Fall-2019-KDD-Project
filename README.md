@@ -64,7 +64,7 @@ Goods|Comfort and luxury|Necessity
  >  <p>Price Elasticity of all the products
    
 #### Data Preparation
-  Data preparation is in progress and it is vital to select the columns that will have a bigger impact on the goal we have.
+  DWe have finished with the data preprocessing and we are ready to put the updated excel file in the Power BI tool.
 
 #### Machine Learning
 Due to the absense of feature columns, We will be creating some visualizations using Power BI tool from microsoft.
