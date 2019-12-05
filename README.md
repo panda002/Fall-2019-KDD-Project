@@ -67,8 +67,7 @@ Goods|Comfort and luxury|Necessity
   Data preparation is in progress and it is vital to select the columns that will have a bigger impact on the goal we have.
 
 #### Machine Learning
-#### Evaluation
-#### Conclusion
-      We will conclude from the machine learning models, the impact, pricing has on the demand of the products.
-#### DecisionTree
-      By building a decision tree, we can evaluate decide which type of product to buy from which website based on past data.
+Due to the absense of feature columns, We will be creating some visualizations using Power BI tool from microsoft.
+
+#### Using Power BI Tool
+Power BI is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website. Connect to hundreds of data sources and bring your data to life with live dashboards and reports.(https://powerbi.microsoft.com/en-us/what-is-power-bi/)
