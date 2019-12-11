@@ -67,7 +67,9 @@ Goods|Comfort and luxury|Necessity
   DWe have finished with the data preprocessing and we are ready to put the updated excel file in the Power BI tool.
 
 #### Machine Learning
-Due to the absense of feature columns, We will be creating some visualizations using Power BI tool from microsoft.
+We have implemented Decision Tree and Random Forest Classifier to test the score of our classification model to classify the brands based on discount criteria and price matching criteria
+#### Visualization and Buisness Insights
+We will be creating some visualizations using Power BI tool from microsoft.
 
 #### Using Power BI Tool
 Power BI is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website. Connect to hundreds of data sources and bring your data to life with live dashboards and reports.(https://powerbi.microsoft.com/en-us/what-is-power-bi/)
